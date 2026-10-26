@@ -1,0 +1,12 @@
+Час: 2026-10-26T20:48:53.2249149+02:00
+Запит взято з test-api.rest.
+GET http://localhost:5050/
+HTTP 200
+Content-Type: text/plain; charset=utf-8
+
+Це API поштового клієнта.
+
+PASS: HTTP 200.
+PASS: Точний текст — Це API поштового клієнта.
+PASS: text/plain; charset=utf-8.
+Збірка: 0 помилок, 0 попереджень.
